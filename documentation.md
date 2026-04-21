@@ -10,3 +10,6 @@ Input | RPM
 255 | 75
 
 since the motor encoder hasn't been calibrated, these values might be off. Will investate that later.
+
+
+Also, need to order more motors and wheels.
